@@ -1,0 +1,44 @@
+{
+    "Monday": [
+      
+      {
+        "id": "English",
+        "StartTime": "10:15",
+        "EndTime": "10:55",
+        "Period":"1st"
+      },
+      {
+        "id": "Social",
+        "StartTime": "10:55",
+        "EndTime": "11:30",
+        "Period":"2nd"
+      },
+      {
+        "id": "Nepali",
+        "StartTime": "11:30",
+        "EndTime": "12:15",
+        "Period":"3rd"
+      }
+    ],
+    "Tuesday": [
+      
+      {
+        "id1": "Nepali",
+        "StartTime1": "10:15",
+        "EndTime1": "10:55",
+        "Period1":"1st"
+      },
+      {
+        "id1": "Science",
+        "StartTime": "10:55",
+        "EndTime": "11:30",
+        "Period":"2nd"
+      },
+      {
+        "id1": "Moral",
+        "StartTime1": "11:30",
+        "EndTime1": "12:15",
+        "Period1":"3rd"
+      }
+    ]
+  }

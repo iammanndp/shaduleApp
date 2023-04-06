@@ -1,0 +1,23 @@
+{
+    "Tuesday": [
+      
+      {
+        "id": "Nepali",
+        "StartTime": "10:15",
+        "EndTime": "10:55",
+        "Period":"1st"
+      },
+      {
+        "id": "Science",
+        "StartTime": "10:55",
+        "EndTime": "11:30",
+        "Period":"2nd"
+      },
+      {
+        "id": "Moral",
+        "StartTime": "11:30",
+        "EndTime": "12:15",
+        "Period":"3rd"
+      }
+    ]
+  }
